@@ -213,4 +213,10 @@ a {
     object-fit: cover;
     mix-blend-mode: lighten;
 }
-
+.mySkills{
+    color: dodgerblue;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+}
